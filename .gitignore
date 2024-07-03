@@ -1,6 +1,11 @@
 # Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,vim,python
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,vim,python
 
+### User edited ###
+*.log
+*.wav
+*.bmp
+
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
