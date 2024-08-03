@@ -2,6 +2,7 @@ numpy
 scipy
 matplotlib
 pillow
+wheel
 pydub
 soundfile
 playsound

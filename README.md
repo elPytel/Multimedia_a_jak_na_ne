@@ -14,7 +14,13 @@ Pokud pracuje na `Linux`, můžete použít skript `install.sh` pro instalaci z�
 ```
 
 ### Windows
-- [ffmpeg](https://blog.gregzaal.com/how-to-install-ffmpeg-on-windows/)
+
+Stáněte si FFmpeg. Lze tak učinit například zde: [FFmpeg](https://ffmpeg.org/download.html), nebo pomocí [UniGetUI](https://www.marticliment.com/unigetui/).
+
+> [!warning]
+> Pokud se při spuštění instalace Python závislostí v Jupyter notebooku vyskytne chyba `Microsoft Visual C++ 14.0 or greater is required`, je nutné nainstalovat `Microsoft Visual C++ 14.0` nebo novější (zabere 15+GB).
+> - [Microsoft C++ Build Tools](https://visualstudio.microsoft.com/cs/visual-cpp-build-tools/)
+> - [stackoverflow](https://stackoverflow.com/questions/64261546/how-to-solve-error-microsoft-visual-c-14-0-or-greater-is-required-when-inst)
 
 ## Připravené Jupyter Notebooky
 
